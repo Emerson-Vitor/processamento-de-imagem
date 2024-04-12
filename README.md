@@ -19,6 +19,17 @@ Neste apêndice, são apresentados os códigos e arquivos relacionados à utiliz
 - [Repositório GitHub](https://github.com/Emerson-Vitor/processamento-de-imagem.git)
 - Pasta no Repositório: APENDICE_B
 
+#### Para executar somente o jogo: 
+ 
+```
+📁 APENDICE_B
+    └── 📁 emersonPacMan
+            └── 📁 dist
+                    └── 💻 main.exe
+```
+
+
+___
 ### Equipe de Desenvolvimento
 
 - **Emerson Vitor Pereira da Silva**
